@@ -1,1 +1,1 @@
-# Divisible-Sum-Pairs-algo
+# Divisible-Sum-Pairs-algo The program counts how many pairs of numbers in the list have a sum that is divisible by k. It checks every possible pair of elements and returns the total number of valid pairs.
